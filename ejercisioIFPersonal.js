@@ -11,3 +11,5 @@ else if((nombre== listaDeNombres[0])||(nombre==listaDeNombres[3])){
 else{
     console.log("Lo siento, no perteneces a esta clase");
 };
+
+//Haciendo un cambio en este codigo
