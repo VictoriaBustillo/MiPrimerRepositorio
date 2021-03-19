@@ -1,7 +1,7 @@
 //proyecto personal
 const prompt = require("prompt-sync")();
 var nombre = prompt("Ingresa tu Nombre: ");
-var listaDeNombres =["Lucia", "Manuel", "Carlos", "Grecia", "Ramon",];
+var listaDeNombres =["Raquel", "Javier", "Luis", "Fabiola", "Marco",];
 if((nombre == listaDeNombres[1])||(nombre==listaDeNombres[2])||(nombre==listaDeNombres[4]) ){
     console.log( "Bienvenido "+ nombre);
 }
